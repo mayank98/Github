@@ -1,0 +1,4 @@
+git config --global gpg.program "C:\Program Files (x86)\GnuPG\bin\gpg.exe"
+git config --global commit.gpgsign true
+
+Don't forget to use these commands to enable GPG signing of commits.
